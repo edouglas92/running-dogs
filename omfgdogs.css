@@ -1,0 +1,20 @@
+
+.tile {
+	background-image: url(assets/omfgdogs.gif); 
+	background-repeat: repeat;
+	background-position: top left
+}
+
+#link {
+	font-size: xx-large;
+	font-family: Arial, serif;
+	font-style: oblique;
+	color: white;
+	background-color: blue;
+	position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
+	
